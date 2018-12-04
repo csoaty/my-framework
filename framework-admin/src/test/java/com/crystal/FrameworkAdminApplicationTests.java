@@ -11,6 +11,7 @@ public class FrameworkAdminApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("hello");
 	}
 
 }
