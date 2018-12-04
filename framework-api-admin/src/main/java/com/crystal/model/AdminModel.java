@@ -2,6 +2,7 @@ package com.crystal.model;
 
 import java.io.Serializable;
 
+
 /**
  *
  */
